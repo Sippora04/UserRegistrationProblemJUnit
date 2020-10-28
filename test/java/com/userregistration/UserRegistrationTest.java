@@ -6,6 +6,7 @@ import org.junit.Test;
 
 public class UserRegistrationTest {
 
+	//test
 	@Test
 	public void givenFirstName_WhenProper_ShouldReturnTrue() {
 		try {
